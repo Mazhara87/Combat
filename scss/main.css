@@ -5,7 +5,7 @@
         animation-fill-mode: none;
     }
     to {
-        background-position: 100% 0;
+        background-position: -1200px 0;
         animation-fill-mode: none;
     }
 }
